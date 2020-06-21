@@ -18,8 +18,10 @@ I also needed to add the "Tectonic_Plates" layer by setting it up as a new L.lay
 
 #### satellight
 <img width="1440" alt="Earthquakes_ _tectonicPlates" src="https://user-images.githubusercontent.com/62089134/85221052-9456b280-b365-11ea-9d18-d8b049f1bdc1.png">
+
 #### streets
 <img width="1440" alt="3maps_challenge" src="https://user-images.githubusercontent.com/62089134/85221083-dda70200-b365-11ea-8e4c-8ec8c61d6eeb.png">
+
 #### light
 <img width="1440" alt="3maps_light" src="https://user-images.githubusercontent.com/62089134/85221084-ded82f00-b365-11ea-8327-6b40f92e65dc.png">
 
